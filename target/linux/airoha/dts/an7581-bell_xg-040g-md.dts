@@ -270,3 +270,8 @@
 &afe {
 	status = "disabled";
 };
+
+
+&npu {
+	status = "okay";
+};
